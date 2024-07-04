@@ -5,10 +5,10 @@ Hi!👋I'm Devika.
 [![Gmail dg3370@columbia.edu](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dg3370@columbia.edu)](mailto:dg3370@columbia.edu)
 
 🧑‍🎓  I'm a master's student at Columbia University, specializing in Machine Learning. <br>
-🌍  I'm based in New York City <br>
-🧠  My research focuses on multimodal AI at the Edge, exploring innovative applications at the intersection of vision and language. <br>
+🌍  I'm based in New York City <br>
+🧠  My research focuses on multimodal AI at the Edge, exploring innovative applications at the intersection of vision and language. <br>
 ❤️  I enjoy reading, strolling along riverbanks, savouring freshly brewed iced lattes, and the serenity of snowfall. <br>
-🤝  I'm open to collaborating on Open Source Projects and Machine Learning Research <br>
+🤝  I'm open to collaborating on Open Source Projects and Machine Learning Research <br>
 
 
 
