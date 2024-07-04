@@ -2,7 +2,7 @@ Hi!👋I'm Devika.
 =========================================================================================================================================
  [![Linkedin: devikagumaste](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devika-gumaste/)
 [![GitHub aap2239](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/devika3370)
-[![Gmail dg3370@columbia.edu](https://img.shields.io/badge/-devikagumaste-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dg3370@columbia.edu)](mailto:dg3370@columbia.edu)
+[![Gmail dg3370@columbia.edu](https://img.shields.io/badge/-GMAIL-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dg3370@columbia.edu)](mailto:dg3370@columbia.edu)
 
 🧑‍🎓  I'm a master's student at Columbia University, specializing in Machine Learning. <br>
 🌍  I'm based in New York City <br>
