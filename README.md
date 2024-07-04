@@ -6,8 +6,8 @@ Hi!👋I'm Devika.
 
 🧑‍🎓  I'm a master's student at Columbia University, specializing in Machine Learning. <br>
 🌍  I'm based in New York City <br>
-🧠  My research focuses on exploring multimodal AI at the Edge. <br>
-❤️  I enjoy reading, walking along river banks, freshly brewed iced latte, snow. <br>
+🧠  My research focuses on multimodal AI at the Edge, exploring innovative applications at the intersection of vision and language. <br>
+❤️  I enjoy reading, strolling along riverbanks, savouring freshly brewed iced lattes, and the serenity of snowfall. <br>
 🤝  I'm open to collaborating on Open Source Projects and Machine Learning Research <br>
 
 
