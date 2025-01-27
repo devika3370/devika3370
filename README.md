@@ -36,6 +36,6 @@ Hi!👋I'm Devika.
 <img src="./images/scikit.png" alt="Scikit" height="36" style="vertical-align:top; margin:4px">
 <img src="./images/cpp.png" alt="C++" height="36" style="vertical-align:top; margin:4px">
 
-### Badges
+### GitHub Stats
 
 <a href="http://www.github.com/devika3370"><img src="https://github-readme-stats.vercel.app/api?username=devika3370&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Devika's GitHub stats" /></a>
